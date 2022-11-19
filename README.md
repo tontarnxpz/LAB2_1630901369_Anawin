@@ -1,2 +1,2 @@
-# LAB2_1630901369_Anawin
+Anawin Manosilapakorn sec336B
  

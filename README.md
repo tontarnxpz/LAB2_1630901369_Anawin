@@ -1,2 +1,3 @@
-Anawin Manosilapakorn sec336B
- 
+Anawin Manosilapakorn 
+CE312 Homework : Lab 2
+Section B
